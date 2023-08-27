@@ -2,11 +2,11 @@
 
 ### 1. **Clone the Repository**:
 
-Provide them with the URL to your Git repository.
+URL of Git repository.
 
 ```bash
-git clone [Your Repository URL]
-cd [Your Repository Name]
+git clone [https://github.com/Fatima-Zaka/library-management.git]
+cd [Library Managment]
 ```
 
 ### 2. **Install Project Dependencies**:
@@ -34,7 +34,7 @@ Since Laravel requires an app key for encryption:
 php artisan key:generate
 ```
 
-### 5. **Database Migrations and Seeders**:
+### 5. **Database Migrations**:
 
 If your project utilizes database migrations:
 
