@@ -46,7 +46,7 @@ Assuming the `.sql` file is in a directory named `database_backup` in the projec
 
 **Using Command Line (for MySQL)**:
 ```bash
-mysql -u [YOUR_DB_USERNAME] -p [YOUR_DB_NAME] < database_backup/database_name.sql
+mysql -u [library_management] -p [library_management] < database_backup/library_management.sql
 ```
 
 Enter your password when prompted.
