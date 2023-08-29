@@ -6,7 +6,7 @@ URL of Git repository.
 
 ```bash
 git clone [https://github.com/Fatima-Zaka/library-management.git]
-cd [Library Managment]
+cd [library-management]
 ```
 
 ### 2. **Install Project Dependencies**:
